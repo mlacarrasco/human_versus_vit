@@ -6,13 +6,6 @@ A comparative study examining the performance differences between human visual p
 
 This repository contains the implementation and analysis code for comparing human cognitive abilities with Vision Transformer neural networks. The project explores how humans and state-of-the-art computer vision models perform on various visual recognition tasks, providing insights into the strengths and limitations of both biological and artificial vision systems.
 
-## Author
-
-**Miguel Carrasco**  
-PhD in Informatics - Pierre et Marie Curie University (Sorbonne University)  
-PhD in Engineering Sciences - Pontificia Universidad Católica de Chile  
-Research Focus: Image Processing, Computer Vision, Human-Computer Interaction
-
 ## Research Objectives
 
 - **Performance Comparison**: Quantitative analysis of human vs. ViT performance across different image classification tasks
